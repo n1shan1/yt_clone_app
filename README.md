@@ -2,6 +2,8 @@
 
 This project is a clone of YouTube built using React. It allows users to search for videos, watch them, and explore related videos. The application leverages the YouTube Data API to fetch and display video content.
 
+## The deployment can be found [HERE](https://magnificent-croissant-f52057.netlify.app).
+
 ## Features
 
 - Search for videos using keywords
